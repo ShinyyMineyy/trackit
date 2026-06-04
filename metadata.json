@@ -1,0 +1,6 @@
+{
+  "name": "TrackIt",
+  "description": "TrackIt is a professional, secure client-management web app for freelancers to track clients, projects, tasks, invoices, payments, wiki notes and calendars.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

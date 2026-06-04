@@ -1,0 +1,16 @@
+{
+  "admins": [],
+  "passwordHashes": {},
+  "clients": [],
+  "projects": [],
+  "tasks": [],
+  "updates": [],
+  "payments": [],
+  "invoices": [],
+  "files": [],
+  "documents": [],
+  "calendarEvents": [],
+  "activities": [],
+  "portalTokens": [],
+  "emails": []
+}
